@@ -7,7 +7,15 @@ https://github.com/joepk90/full-stack-vue-express--frontend
 # after making any changes to the Vue logic, run:
 $ npm run build
 
-# This app is connected to Heroku:
+# to run the project locally run:
+$npm run serve
+
+# to view the project locally:
+http://localhost:5000
+
+http://localhost:5000/api/posts
+
+# This app is also connected to Heroku:
 https://warm-castle-90568.herokuapp.com/
 
 https://warm-castle-90568.herokuapp.com/api/posts
